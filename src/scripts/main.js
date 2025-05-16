@@ -1,6 +1,5 @@
 'use strict';
 
-// write code here
 document.querySelectorAll('.tree li').forEach((li) => {
   const firstChild = li.firstChild;
 
